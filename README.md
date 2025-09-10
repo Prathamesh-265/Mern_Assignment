@@ -18,7 +18,3 @@
    npm start
    ```
 4. Open browser to `http://localhost:5000`
-
-## Notes
-- Frontend is a lightweight React SPA using CDN so there's no build step — convenient for the single-host requirement.
-- JWT secret can be customized by setting `JWT_SECRET` environment variable.
